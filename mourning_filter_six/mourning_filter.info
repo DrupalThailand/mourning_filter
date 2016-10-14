@@ -1,0 +1,4 @@
+name = Mouring Filter
+description = Mourning filter to set your theme for mourn period time. Contact developer http://andwalkstudio.com .
+core = 6.x
+package = User interface
