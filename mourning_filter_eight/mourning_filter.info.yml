@@ -1,0 +1,5 @@
+name: Mouring Filter
+description: 'Mourning filter to set your theme for mourn period time. Contact developer email: jameschaly.freedom@gmail.com .'
+type: module
+core: 8.x
+package: User interface

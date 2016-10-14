@@ -1,0 +1,6 @@
+<?php
+function mourning_filter_page_attachments(&$page) {
+	if (\Drupal::currentUser()->isAnonymous()) {
+  		 $page['#attached']['library'][] = 'mourning_filter/mourning-filter';
+	}
+}	
